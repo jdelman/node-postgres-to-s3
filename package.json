@@ -1,0 +1,17 @@
+{
+  "name": "postgres-to-s3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Josh Delman <josh@turdnagel.com>",
+  "license": "ISC",
+  "dependencies": {
+    "csv-write-stream": "^2.0.0",
+    "pg-query-stream": "^2.0.1",
+    "uuid": "^3.3.3"
+  }
+}
